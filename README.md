@@ -1,9 +1,9 @@
 # Web Services 201
 
 This is the GITHUB project for the video 'Web Services 201.
-[INTERNET PROGRAMMING 101](https://archive.org/download/webservices201part1)
+[WEB SERVICES 201](https://archive.org/download/webservices201part1)
 
-The examples here cover listing1.c to listing6.c to describe a VERY SIMPLE web server.
+The examples here cover BOTH the Visual Studio and Java samples to build a web service and a web service client.
 
 ## Getting Started
 
