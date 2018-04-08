@@ -1,0 +1,11 @@
+C:\training\webservices\HotelReservationService\HotelReservationService\obj\Debug\HotelReservationService.vbprojResolveAssemblyReference.cache
+C:\training\webservices\HotelReservationService\HotelReservationService\obj\Debug\HotelReservationService.Resources.resources
+C:\training\webservices\HotelReservationService\HotelReservationService\obj\Debug\HotelReservationService.vbproj.GenerateResource.Cache
+C:\training\webservices\HotelReservationService\HotelReservationService\bin\HotelReservationService.dll.config
+C:\training\webservices\HotelReservationService\HotelReservationService\bin\HotelReservationService.dll
+C:\training\webservices\HotelReservationService\HotelReservationService\bin\HotelReservationService.pdb
+C:\training\webservices\HotelReservationService\HotelReservationService\bin\HotelReservationService.xml
+C:\training\webservices\HotelReservationService\HotelReservationService\bin\reservationrequest.dll
+C:\training\webservices\HotelReservationService\HotelReservationService\obj\Debug\HotelReservationService.dll
+C:\training\webservices\HotelReservationService\HotelReservationService\obj\Debug\HotelReservationService.xml
+C:\training\webservices\HotelReservationService\HotelReservationService\obj\Debug\HotelReservationService.pdb

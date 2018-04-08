@@ -1,0 +1,10 @@
+C:\training\webservices\HotelReservationWCF\HotelReservationWCF\bin\HotelReservationWCF.dll.config
+C:\training\webservices\HotelReservationWCF\HotelReservationWCF\bin\HotelReservationWCF.dll
+C:\training\webservices\HotelReservationWCF\HotelReservationWCF\bin\HotelReservationWCF.pdb
+C:\training\webservices\HotelReservationWCF\HotelReservationWCF\bin\HotelReservationWCF.xml
+C:\training\webservices\HotelReservationWCF\HotelReservationWCF\bin\reservationrequest.dll
+C:\training\webservices\HotelReservationWCF\HotelReservationWCF\obj\Debug\HotelReservationWCF.Resources.resources
+C:\training\webservices\HotelReservationWCF\HotelReservationWCF\obj\Debug\HotelReservationWCF.vbproj.GenerateResource.Cache
+C:\training\webservices\HotelReservationWCF\HotelReservationWCF\obj\Debug\HotelReservationWCF.dll
+C:\training\webservices\HotelReservationWCF\HotelReservationWCF\obj\Debug\HotelReservationWCF.xml
+C:\training\webservices\HotelReservationWCF\HotelReservationWCF\obj\Debug\HotelReservationWCF.pdb

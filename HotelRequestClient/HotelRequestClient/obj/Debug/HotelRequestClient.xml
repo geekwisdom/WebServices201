@@ -1,0 +1,44 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+HotelRequestClient
+</name>
+</assembly>
+<members>
+<member name="M:HotelRequestClient.localhost.HotelReservationInterface.#ctor">
+	<remarks/>
+</member><member name="E:HotelRequestClient.localhost.HotelReservationInterface.MakeReservationCompleted">
+	<remarks/>
+</member><member name="M:HotelRequestClient.localhost.HotelReservationInterface.MakeReservation(System.String)">
+	<remarks/>
+</member><member name="M:HotelRequestClient.localhost.HotelReservationInterface.MakeReservationAsync(System.String)">
+	<remarks/>
+</member><member name="M:HotelRequestClient.localhost.HotelReservationInterface.MakeReservationAsync(System.String,System.Object)">
+	<remarks/>
+</member><member name="M:HotelRequestClient.localhost.HotelReservationInterface.CancelAsync(System.Object)">
+	<remarks/>
+</member><member name="T:HotelRequestClient.localhost.HotelReservationInterface">
+	<remarks/>
+</member><member name="T:HotelRequestClient.localhost.MakeReservationCompletedEventHandler">
+	<remarks/>
+</member><member name="P:HotelRequestClient.localhost.MakeReservationCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:HotelRequestClient.localhost.MakeReservationCompletedEventArgs">
+	<remarks/>
+</member><member name="P:HotelRequestClient.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:HotelRequestClient.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:HotelRequestClient.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

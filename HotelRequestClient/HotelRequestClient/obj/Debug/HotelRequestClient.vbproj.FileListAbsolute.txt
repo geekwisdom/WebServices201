@@ -1,0 +1,10 @@
+C:\training\webservices\HotelRequestClient\HotelRequestClient\bin\Debug\HotelRequestClient.exe.config
+C:\training\webservices\HotelRequestClient\HotelRequestClient\bin\Debug\HotelRequestClient.exe
+C:\training\webservices\HotelRequestClient\HotelRequestClient\bin\Debug\HotelRequestClient.pdb
+C:\training\webservices\HotelRequestClient\HotelRequestClient\bin\Debug\HotelRequestClient.xml
+C:\training\webservices\HotelRequestClient\HotelRequestClient\obj\Debug\HotelRequestClient.Resources.resources
+C:\training\webservices\HotelRequestClient\HotelRequestClient\obj\Debug\HotelRequestClient.vbproj.GenerateResource.Cache
+C:\training\webservices\HotelRequestClient\HotelRequestClient\obj\Debug\HotelRequestClient.exe
+C:\training\webservices\HotelRequestClient\HotelRequestClient\obj\Debug\HotelRequestClient.xml
+C:\training\webservices\HotelRequestClient\HotelRequestClient\obj\Debug\HotelRequestClient.pdb
+C:\training\webservices\HotelRequestClient\HotelRequestClient\obj\Debug\HotelRequestClient.vbprojResolveAssemblyReference.cache

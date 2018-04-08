@@ -1,0 +1,1 @@
+﻿<%@ WebService Language="VB" CodeBehind="HotelReservationService.asmx.vb" Class="HotelReservationService.HotelReservationInterface" %>
